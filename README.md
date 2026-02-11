@@ -113,21 +113,6 @@ The model uses standard clinical parameters commonly available in public US heal
 
 ---
 
-## 📂 Project Structure (Example)
-
-```
-AI-Chronic-Disease-Risk/
-│
-├── data/
-├── notebooks/
-├── models/
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🌍 Expected Impact
 
 - Early identification of high-risk individuals  
